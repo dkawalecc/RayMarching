@@ -1,0 +1,10 @@
+out/*
+!out/.gitkeep
+
+build/*
+
+deps/lua*
+
+*.jpg
+README.pdf
+*.dll
